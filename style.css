@@ -1,0 +1,19 @@
+<style>
+      h2{
+         text-align: center;
+         text-de<!DOCTYPE html>coration: underline;
+      }
+      body, p {
+         font-family: verdana;
+         font-size: 16px;
+         font-weight: bold;
+      }
+      .container {
+         width: 600px;
+         clear: both;
+      }
+      .container input {
+         width: 100%;
+         clear: both;
+      }
+   </style>
